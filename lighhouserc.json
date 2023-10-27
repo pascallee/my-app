@@ -1,13 +1,12 @@
 {
-    "ci": {
-        "collect": {
-            "settings": {
-                "chromeFlags": "--headless --disable-gpu"
-            }
-          },
-          "upload": {
-            "target": "temporary-public-storage"
-          }]
-        }  
+  "ci": {
+    "collect": {   
+      "settings": {
+        "chromeFlags": "--headless --disable-gpu"
+      }
+    },
+    "upload": {
+      "target": "temporary-public-storage"
     }
+  }  
 }
