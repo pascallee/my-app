@@ -2,7 +2,7 @@
   "ci": {
     "collect": {   
       "settings": {
-        "chromeFlags": "--headless --disable-gpu"
+        "chromeFlags": "--headless --disable-gpu --no-sandbox"
       }
     },
     "upload": {
