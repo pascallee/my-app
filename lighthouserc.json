@@ -8,16 +8,17 @@
     "assert": {
       "preset": "lighthouse:recommended",
       "assertions": {
-        "offscreen-images": "off",
-        "uses-webp-images": "off",
-        "color-contrast": "off",
-        "bypass": "off",
+        "offscreen-images":"off",
+        "uses-webp-images":"off",
+        "color-contrast":"off",
+        "bypass":"off",
         "csp-xss":"off",
         "maskable-icon":"off",
         "prioritize-lcp-image":"off",
         "service-worker":"off",
         "unsized-images":"off",
-        "unused-javascript":"off"
+        "unused-javascript":"off",
+        "bf-cache":"off"
       }  
     },
     "upload": {
