@@ -6,7 +6,7 @@
       }
     },
     "assert": {
-      "preset": "lighthouse:recommended :",
+      "preset": "lighthouse:recommended",
       "assertions": {
         "offscreen-images": "off",
         "uses-webp-images": "off",
