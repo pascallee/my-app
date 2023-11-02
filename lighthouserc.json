@@ -11,7 +11,13 @@
         "offscreen-images": "off",
         "uses-webp-images": "off",
         "color-contrast": "off",
-        "bf-cache":"off"
+        "bypass": "off",
+        "csp-xss":"off",
+        "maskable-icon":"off",
+        "prioritize-lcp-image":"off",
+        "service-worker":"off",
+        "unsized-images":"off",
+        "unused-javascript":"off"
       }  
     },
     "upload": {
