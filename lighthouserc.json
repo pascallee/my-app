@@ -22,7 +22,9 @@
       }  
     },
     "upload": {
-      "target": "temporary-public-storage"
+      "target": "lhci",
+      "serverBaseUrl": "http://10.132.238.99:9001",
+      "token": "fc30f451-5a53-422a-a2a3-1da4e7bb52dc"
     }
   }  
 }
